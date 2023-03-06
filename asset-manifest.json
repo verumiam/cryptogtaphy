@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptogtaphy/static/css/main.683b2c02.css",
+    "main.js": "/cryptogtaphy/static/js/main.5bc75dbe.js",
+    "index.html": "/cryptogtaphy/index.html",
+    "main.683b2c02.css.map": "/cryptogtaphy/static/css/main.683b2c02.css.map",
+    "main.5bc75dbe.js.map": "/cryptogtaphy/static/js/main.5bc75dbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.683b2c02.css",
+    "static/js/main.5bc75dbe.js"
+  ]
+}
